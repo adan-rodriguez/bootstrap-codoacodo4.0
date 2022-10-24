@@ -4,7 +4,7 @@
 
 .container-top,
 .container-bg-img-playa {
-  height: 500px;
+  height: 600px;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -12,6 +12,7 @@
 .container-top {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(../images/ba.jpg);
+  background-position: center;
 }
 
 .container-bg-img-playa {
